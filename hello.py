@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 #Esse programa é um pangrama.
 
-print('Um jabuti xereta esqueci')
+print('The quick brown fox jumps over the lazy dog')
